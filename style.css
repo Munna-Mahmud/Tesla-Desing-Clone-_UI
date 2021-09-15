@@ -79,3 +79,10 @@ nav{
     width: 15rem;
     padding: 10px;
 }
+.shop-btn{
+    background-color: rgb(12, 19, 4);
+    width: 15rem;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
