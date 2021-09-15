@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-text a{
+    color: black !important;
+}
+.headd{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    position: fixed ;
+    width: 100%;
+}
+.headd a{
+    color: black;
+}
+
+/* all images here  */
+.home{
+    display: flex;
+    background:url(images/bg1\ \(3\).jpg) no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.home-two{
+    display: flex;
+    background: url(images/bg1\ \(2\).jpg) no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.home-three{
+    display: flex;
+    background: url(images/bg1\ \(4\).jpg) no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.home-four{
+    display: flex;
+    background: url(images/bg5\ \(3\).jpg) no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hero-btn button{
+    font-size: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    margin-top: 25rem !important;
+}
+.model{
+    margin-top: 10rem !important; 
+}
+h1{
+    margin-top: 70px !important;
+}
+.model-two{
+    margin-top: 8rem !important;
+}
+nav{
+    margin-top: 8px;
+}
+
+/* button here  */
+.hero-btn .order-btn{
+    background-color: rgb(12, 19, 4);
+    width: 15rem;
+    padding: 10px;
+}
+.hero-btn .learn-btn {
+    width: 15rem;
+    padding: 10px;
+}
