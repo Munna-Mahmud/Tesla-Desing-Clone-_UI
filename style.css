@@ -79,10 +79,25 @@ nav{
     width: 15rem;
     padding: 10px;
 }
-.shop-btn{
-    background-color: rgb(12, 19, 4);
-    width: 15rem;
-    padding: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.accessaries{
+    text-align: center;
+    height: 80vh;
+    margin-top: 20px !important;
+}
+
+/* footer  */
+footer ul{
+        list-style-type: none;
+        /* margin-top: 10px; */
+        padding: 5px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+}
+footer ul li a{
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: 500;
 }
